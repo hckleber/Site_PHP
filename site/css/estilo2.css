@@ -1,0 +1,40 @@
+body{
+background: white;
+}
+
+.sel{
+width: 150px;
+height: 25px;
+color: #833a4d;
+font-family:arial;
+font-weight:bold;
+}
+
+#cont3{
+width:160px;
+height:250px;
+margin-left:20px;
+margin-top:20px;
+margin-bottom:20px;
+float:left;
+border:2px solid #833a4d;	
+}
+
+#foto_im{
+width:160px;
+height:160px;
+border-bottom: 2px solid #833a4d;
+}
+
+#text{
+width:150px;
+height:77px;
+color:black;
+font-family:arial;
+font-size:11px;
+padding:5px;
+}
+
+
+
+
